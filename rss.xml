@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Clix</title>
+        <link>https://ciscosong.top/</link>
+        <description>Clix 2.0</description>
+        <generator>Hugo 0.79.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>cisco_tech@yeah.net (Cisco Song)</managingEditor>
+        
+        
+            <webMaster>cisco_tech@yeah.net (Cisco Song)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Fri, 11 Dec 2020 13:11:25 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://ciscosong.top/rss.xml" />
+        
+        
+            <item>
+                <title>Plan 2020 December</title>
+                <link>https://ciscosong.top/posts/plan-2020-12/</link>
+                <guid isPermaLink="true">https://ciscosong.top/posts/plan-2020-12/</guid>
+                <pubDate>Thu, 10 Dec 2020 11:58:40 &#43;0800</pubDate>
+                
+                    <author>cisco_tech@yeah.net (Cisco Song)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;code&gt;Java&lt;/code&gt;安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;code&gt;Python&lt;/code&gt;安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 「Visual Studio Code」安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 「Jupyter Lab」安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 在「Jupyter Lab」中加入&lt;code&gt;Java&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://ciscosong.top/categories/plan/">Plan</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

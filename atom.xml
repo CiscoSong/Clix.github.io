@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Clix</title>
+    <subtitle type="html">Clix 2.0</subtitle>
+    <updated>2020-12-11T13:11:25&#43;08:00</updated>
+    <id>https://ciscosong.top/</id>
+    <link rel="alternate" type="text/html" href="https://ciscosong.top/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://ciscosong.top/atom.xml" />
+    <author>
+            <name>Cisco Song</name>
+            <uri>https://ciscosong.top/</uri>
+            
+                <email>cisco_tech@yeah.net</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">Plan 2020 December</title>
+            <link rel="alternate" type="text/html" href="https://ciscosong.top/posts/plan-2020-12/" />
+            <id>https://ciscosong.top/posts/plan-2020-12/</id>
+            <updated>2020-12-10T15:04:33&#43;08:00</updated>
+            <published>2020-12-10T11:58:40&#43;08:00</published>
+            <author>
+                    <name>Cisco Song</name>
+                    <uri>https://ciscosong.top</uri>
+                    <email>cisco_tech@yeah.net</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">2020年12月发布规划</summary>
+            
+                <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;code&gt;Java&lt;/code&gt;安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;code&gt;Python&lt;/code&gt;安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 「Visual Studio Code」安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 「Jupyter Lab」安装与环境变量的配置&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 在「Jupyter Lab」中加入&lt;code&gt;Java&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ciscosong.top/categories/plan/" term="Plan" label="Plan" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
